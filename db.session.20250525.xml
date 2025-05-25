@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.7" dataversion="20241002" release="19.2|CoreRPG:7">
+	<calendar>
+		<public />
+	</calendar>
+	<charsheet>
+		<public />
+	</charsheet>
+	<combattracker>
+		<public />
+		<actiondata>
+			<public />
+			<dc type="number">15</dc>
+		</actiondata>
+	</combattracker>
+	<currencies>
+		<public />
+		<id-00001>
+			<public />
+			<name type="string">PP</name>
+			<value type="number">10</value>
+			<weight type="number">0.001</weight>
+		</id-00001>
+		<id-00002>
+			<public />
+			<name type="string">GP</name>
+			<value type="number">1</value>
+			<weight type="number">0.001</weight>
+		</id-00002>
+		<id-00003>
+			<public />
+			<name type="string">SP</name>
+			<value type="number">0.1</value>
+			<weight type="number">0.001</weight>
+		</id-00003>
+		<id-00004>
+			<public />
+			<name type="string">CP</name>
+			<value type="number">0.01</value>
+			<weight type="number">0.001</weight>
+		</id-00004>
+	</currencies>
+	<effects>
+		<public />
+	</effects>
+	<image>
+		<id-00001>
+			<image type="image">
+				<allowplayerdrawing>on</allowplayerdrawing>
+				<grid>on</grid>
+				<gridtype>hexrow</gridtype>
+				<gridsize>200,200</gridsize>
+				<color>#FF9FFFC9</color>
+				<gridsnap>on</gridsnap>
+				<distancebaseunit>12</distancebaseunit>
+				<distancesuffix>millas</distancesuffix>
+				<layers>
+					<layer>
+						<name>stolen-lands.webp</name>
+						<id>0</id>
+						<parentid>-4</parentid>
+						<type>image</type>
+						<bitmap>campaign/images/stolen-lands.webp</bitmap>
+					</layer>
+					<layer>
+						<name>Zones</name>
+						<id>1</id>
+						<parentid>-2</parentid>
+						<type>paint</type>
+					</layer>
+					<layer>
+						<name>Painting layer</name>
+						<id>2</id>
+						<parentid>-1</parentid>
+						<type>paint</type>
+						<strokes>
+							<stroke>
+								<id>0</id>
+								<type>normal</type>
+								<size>20,20</size>
+								<color>#FF71D4FF</color>
+								<paths>
+									<path>
+										<id>0</id>
+										<endtype>etOpenButt</endtype>
+										<jointype>jtSquare</jointype>
+										<jointype>Square</jointype>
+										<points>2600,1385.6,2600,1270.2,2700,1212.4,2700,1097,2800,1039.2,2800,923.8,2900,866,3000,923.8,3100,866,3200,923.8,3300,866,3400,923.8,3500,866,3600,923.8,3700,866,3800,923.8,3900,866,4000,923.8,4100,866,4200,923.8</points>
+										<sizes />
+										<angles />
+									</path>
+								</paths>
+							</stroke>
+						</strokes>
+						<gmonly />
+					</layer>
+				</layers>
+			</image>
+			<locked type="number">0</locked>
+			<name type="string">Tierras Robadas</name>
+		</id-00001>
+	</image>
+	<languages>
+		<public />
+		<id-00001>
+			<public />
+			<name type="string">Sphinx</name>
+		</id-00001>
+		<id-00002>
+			<public />
+			<name type="string">Androffan</name>
+		</id-00002>
+		<id-00003>
+			<public />
+			<name type="string">Mwangi</name>
+		</id-00003>
+		<id-00004>
+			<public />
+			<name type="string">Thassilonian</name>
+		</id-00004>
+		<id-00005>
+			<public />
+			<name type="string">Tekritanin</name>
+		</id-00005>
+		<id-00006>
+			<public />
+			<name type="string">Aklo</name>
+		</id-00006>
+		<id-00007>
+			<public />
+			<name type="string">Vudrani</name>
+		</id-00007>
+		<id-00008>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Elven</name>
+		</id-00008>
+		<id-00009>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Gnomish</name>
+		</id-00009>
+		<id-00010>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Chthonian</name>
+		</id-00010>
+		<id-00011>
+			<public />
+			<name type="string">Hallit</name>
+		</id-00011>
+		<id-00012>
+			<public />
+			<name type="string">Daemonic</name>
+		</id-00012>
+		<id-00013>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Draconic</name>
+		</id-00013>
+		<id-00014>
+			<public />
+			<name type="string">Caligni</name>
+		</id-00014>
+		<id-00015>
+			<public />
+			<name type="string">Skald</name>
+		</id-00015>
+		<id-00016>
+			<public />
+			<name type="string">Orvian</name>
+		</id-00016>
+		<id-00017>
+			<public />
+			<name type="string">Protean</name>
+		</id-00017>
+		<id-00018>
+			<public />
+			<name type="string">Iruxi</name>
+		</id-00018>
+		<id-00019>
+			<public />
+			<name type="string">Utopian</name>
+		</id-00019>
+		<id-00020>
+			<public />
+			<name type="string">Jistkan</name>
+		</id-00020>
+		<id-00021>
+			<public />
+			<name type="string">D'ziriaks</name>
+		</id-00021>
+		<id-00022>
+			<public />
+			<name type="string">Varisian</name>
+		</id-00022>
+		<id-00023>
+			<public />
+			<name type="string">Tien</name>
+		</id-00023>
+		<id-00024>
+			<public />
+			<name type="string">Shoanti</name>
+		</id-00024>
+		<id-00025>
+			<public />
+			<name type="string">Shisk</name>
+		</id-00025>
+		<id-00026>
+			<public />
+			<name type="string">Halfling</name>
+		</id-00026>
+		<id-00027>
+			<public />
+			<name type="string">Goloma</name>
+		</id-00027>
+		<id-00028>
+			<public />
+			<name type="string">Rasu</name>
+		</id-00028>
+		<id-00029>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Orcish</name>
+		</id-00029>
+		<id-00030>
+			<public />
+			<name type="string">Anadi</name>
+		</id-00030>
+		<id-00031>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Petran</name>
+		</id-00031>
+		<id-00032>
+			<public />
+			<font type="string">Celestial</font>
+			<name type="string">Empyrean</name>
+		</id-00032>
+		<id-00033>
+			<public />
+			<name type="string">Boggard</name>
+		</id-00033>
+		<id-00034>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Diabolic</name>
+		</id-00034>
+		<id-00035>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Necril</name>
+		</id-00035>
+		<id-00036>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Sakvroth</name>
+		</id-00036>
+		<id-00037>
+			<public />
+			<name type="string">Cyclops</name>
+		</id-00037>
+		<id-00038>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Fey</name>
+		</id-00038>
+		<id-00039>
+			<public />
+			<name type="string">Osiriani</name>
+		</id-00039>
+		<id-00040>
+			<public />
+			<name type="string">Ysoki</name>
+		</id-00040>
+		<id-00041>
+			<public />
+			<name type="string">Jyoti</name>
+		</id-00041>
+		<id-00042>
+			<public />
+			<name type="string">Shadowtongue</name>
+		</id-00042>
+		<id-00043>
+			<public />
+			<name type="string">Tripkee</name>
+		</id-00043>
+		<id-00044>
+			<public />
+			<name type="string">Kelish</name>
+		</id-00044>
+		<id-00045>
+			<public />
+			<name type="string">Destrachan</name>
+		</id-00045>
+		<id-00046>
+			<public />
+			<name type="string">Kholo</name>
+		</id-00046>
+		<id-00047>
+			<public />
+			<name type="string">Amurrun</name>
+		</id-00047>
+		<id-00048>
+			<public />
+			<name type="string">Ancient Osiriani</name>
+		</id-00048>
+		<id-00049>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Pyric</name>
+		</id-00049>
+		<id-00050>
+			<public />
+			<name type="string">Common</name>
+		</id-00050>
+		<id-00051>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Thalassic</name>
+		</id-00051>
+		<id-00052>
+			<public />
+			<name type="string">Requian</name>
+		</id-00052>
+		<id-00053>
+			<public />
+			<name type="string">Azlanti</name>
+		</id-00053>
+		<id-00054>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Sussuran</name>
+		</id-00054>
+		<id-00055>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Wildsong</name>
+		</id-00055>
+		<id-00056>
+			<public />
+			<name type="string">Arboreal</name>
+		</id-00056>
+		<id-00057>
+			<public />
+			<name type="string">Alghollthu</name>
+		</id-00057>
+		<id-00058>
+			<public />
+			<name type="string">Tengu</name>
+		</id-00058>
+		<id-00059>
+			<public />
+			<name type="string">Strix</name>
+		</id-00059>
+		<id-00060>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Jotun</name>
+		</id-00060>
+		<id-00061>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Dwarven</name>
+		</id-00061>
+		<id-00062>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Goblin</name>
+		</id-00062>
+	</languages>
+	<modifiers>
+		<public />
+	</modifiers>
+	<motd>
+		<public />
+	</motd>
+	<options>
+		<public />
+		<DDCL-custom type="string">images/decals/pf2_decal.png@PFRPG2 Assets</DDCL-custom>
+	</options>
+	<partysheet>
+		<public />
+	</partysheet>
+	<picture>
+		<public />
+	</picture>
+	<resultstates>
+		<public />
+	</resultstates>
+	<settings>
+		<sound>
+			<ss />
+		</sound>
+		<tokenlight>
+			<public />
+			<id-00001>
+				<public />
+				<animspeed type="number">25</animspeed>
+				<animtype type="string">flicker</animtype>
+				<bright type="number">15</bright>
+				<color type="string">FFFFF3E1</color>
+				<dim type="number">45</dim>
+				<dimfalloff type="number">50</dimfalloff>
+				<duration type="number">3600</duration>
+				<falloff type="number">25</falloff>
+				<name type="string">Lamp</name>
+				<tag type="string">lamp</tag>
+			</id-00001>
+			<id-00002>
+				<public />
+				<animspeed type="number">100</animspeed>
+				<animtype type="string">flicker</animtype>
+				<bright type="number">5</bright>
+				<color type="string">FFFFFCC3</color>
+				<dim type="number">10</dim>
+				<dimfalloff type="number">50</dimfalloff>
+				<duration type="number">600</duration>
+				<falloff type="number">25</falloff>
+				<name type="string">Candle</name>
+				<tag type="string">candle</tag>
+			</id-00002>
+			<id-00003>
+				<public />
+				<animspeed type="number">25</animspeed>
+				<animtype type="string">flicker</animtype>
+				<bright type="number">20</bright>
+				<color type="string">FFFFF3E1</color>
+				<dim type="number">40</dim>
+				<dimfalloff type="number">50</dimfalloff>
+				<duration type="number">600</duration>
+				<falloff type="number">25</falloff>
+				<name type="string">Torch</name>
+				<tag type="string">torch</tag>
+			</id-00003>
+			<id-00004>
+				<public />
+				<animspeed type="number">100</animspeed>
+				<bright type="number">30</bright>
+				<color type="string">FFF9FEFF</color>
+				<dim type="number">60</dim>
+				<dimfalloff type="number">50</dimfalloff>
+				<duration type="number">3600</duration>
+				<falloff type="number">25</falloff>
+				<name type="string">Lantern</name>
+				<tag type="string">lantern</tag>
+			</id-00004>
+			<id-00005>
+				<public />
+				<animspeed type="number">100</animspeed>
+				<bright type="number">15</bright>
+				<color type="string">FF000000</color>
+				<dim type="number">15</dim>
+				<dimfalloff type="number">50</dimfalloff>
+				<duration type="number">100</duration>
+				<falloff type="number">25</falloff>
+				<name type="string">Spell - Darkness</name>
+				<tag type="string">darkness</tag>
+			</id-00005>
+			<id-00006>
+				<public />
+				<animspeed type="number">100</animspeed>
+				<bright type="number">20</bright>
+				<color type="string">FFFFF3E1</color>
+				<dim type="number">40</dim>
+				<dimfalloff type="number">50</dimfalloff>
+				<duration type="number">600</duration>
+				<falloff type="number">25</falloff>
+				<name type="string">Spell - Light</name>
+				<tag type="string">light</tag>
+			</id-00006>
+		</tokenlight>
+	</settings>
+	<tables />
+	<version>
+		<displayednewcampaignmessage type="number">1</displayednewcampaignmessage>
+	</version>
+</root>

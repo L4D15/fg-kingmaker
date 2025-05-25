@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.7" dataversion="20241002" release="19.2|CoreRPG:7">
+	<reference>
+		<npcdata>
+			<koboldwarrior>
+				<ac_final type="number">16</ac_final>
+				<current type="number">0</current>
+				<dying type="number">0</dying>
+				<hptemp type="number">0</hptemp>
+				<npc_shield type="number">0</npc_shield>
+				<reactionused type="number">0</reactionused>
+				<shieldbt type="number">0</shieldbt>
+				<shieldhardness type="number">0</shieldhardness>
+				<shieldhp type="number">0</shieldhp>
+				<shieldhpdamage type="number">0</shieldhpdamage>
+				<shieldraised type="number">0</shieldraised>
+				<wounded type="number">0</wounded>
+				<wounds type="number">0</wounds>
+			</koboldwarrior>
+		</npcdata>
+	</reference>
+</root>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<windowstate version="4.7" dataversion="20241002">
+	<window data="" class="moduleselection" pos="635,481,1335,1081" />
+	<window data="" class="tokenbag" pos="1817,540,2313,1020" />
+	<window data="" class="characterlist" pos="0,0,45,120" />
+	<window data="" class="desktop_setdc" pos="395,1120,605,1310" />
+	<window data="" class="sound_context" pos="363,454,913,954" />
+	<window data="" class="diceselect" pos="927,429,1632,989" />
+	<window data="tables" class="masterindex" pos="1045,473,1515,943" />
+	<window data="image" class="masterindex" pos="326,501,796,971" />
+	<window data="image.id-00001" class="imagewindow" pos="149,108,1131,808" />
+	<window data="location.id-00001" class="location" pos="1001,239,1401,739" />
+	<window data="reference.npcdata.bottomlesspit@PF2-ORC-GM Core" class="npc" pos="369,429,909,979" />
+	<window data="reference.npcdata.hamperingweb@PF2-ORC-GM Core" class="npc" pos="369,429,909,979" />
+	<window data="reference.npcdata.airscamp@PF2-ORC-Monster Core" class="npc" pos="369,429,909,979" />
+	<window data="npc.id-00001" class="npc" pos="501,541,1041,1091" />
+	<window data="npc.id-00002" class="npc" pos="613,683,1153,1233" />
+	<window data="reference.activity.disarmattack@PF2-ORC-Player Core" class="reference_activity" pos="749,640,1149,1140" />
+	<window data="reference.magicitems.loversgloves@PF2-ORC-GM Core" class="item" pos="549,454,999,954" />
+	<window data="reference.magicitems.acidflasklesser@PF2-ORC-GM Core" class="item" pos="393,488,843,988" />
+	<window data="reference.magicitems.magicscrollstrankspell1@PF2-ORC-GM Core" class="item" pos="549,454,999,954" />
+	<window data="reference.magicitems.alloyorblowgradealloyorb@PF2-ORC-GM Core" class="item" pos="549,454,999,954" />
+	<window data="reference.magicitems.basiliskeye@PF2-ORC-GM Core" class="item" pos="549,454,999,954" />
+	<window data="item.id-00001.actions.id-00001" class="power_action_editor" pos="499,529,999,879" />
+	<window data="reference.magicitems.bronzebullpendant@PF2-ORC-GM Core" class="item" pos="549,454,999,954" />
+	<window data="item.id-00001.actions.id-00002" class="power_action_editor" pos="391,649,891,999" />
+	<window data="item.id-00001" class="item" pos="832,279,1282,779" />
+	<window data="treasureparcels.id-00001" class="treasureparcel" pos="197,779,747,1179" />
+	<window data="quest.id-00001" class="quest" pos="975,755,1375,1255" />
+	<window data="item.id-00002" class="item" pos="549,454,999,954" />
+	<window data="treasureparcels.id-00002" class="treasureparcel" pos="336,591,886,991" />
+	<window data="quest.id-00002" class="quest" pos="950,129,1350,629" />
+	<window data="quest.id-00003" class="quest" pos="549,454,949,954" />
+	<window data="combattracker" class="combattracker_host" pos="339,454,939,954" />
+	<window data="location" class="masterindex" pos="1121,651,1591,1121" />
+	<window data="partysheet" class="partysheet_host" pos="279,379,1219,1029" />
+	<window data="notes" class="masterindex" pos="514,469,984,939" />
+	<window data="activity" class="masterindex" pos="514,469,984,939" />
+	<window data="calendar" class="calendar" pos="517,331,1217,831" />
+	<window data="item" class="masterindex" pos="155,627,625,1097" />
+	<window data="treasureparcels" class="masterindex" pos="894,768,1364,1238" />
+	<window data="npc" class="masterindex" pos="1021,677,1491,1147" />
+	<window data="quest" class="masterindex" pos="385,684,855,1154" />
+	<window data="reference.npcdata.koboldwarrior@PF2-ORC-Monster Core" class="npc" pos="1049,285,1589,835" />
+	<window data="npc.id-00003" class="npc" pos="451,451,991,1001" />
+	<window data="battle.id-00001" class="battle" pos="161,576,611,1026" />
+	<window data="image.id-00002" class="imagewindow" pos="499,187,1595,894" />
+	<window data="location.id-00002" class="location" pos="1047,134,1447,634" />
+	<window data="charsheet.id-00001" class="pictures" pos="1080,459,1480,959" />
+	<window data="charsheet.id-00001" class="charsheet" pos="479,413,1019,1073" />
+	<window data="charsheet.id-00001" class="chargen_tracker" pos="1565,399,2065,1019" />
+	<window data="background" class="masterindex" pos="602,469,1072,939" />
+	<window data="battle" class="masterindex" pos="348,583,818,1053" />
+	<window data="image.id-00003" class="imagewindow" pos="443,233,1633,1001" />
+	<window data="feat" class="masterindex" pos="1045,473,1515,943" />
+	<image data="image.id-00001" class="imagewindow" control="image" view="2733,765" zoom="0.560767998673784" />
+	<image data="image.id-00002" class="imagewindow" control="image" view="223,47" zoom="1.02384739822223" />
+	<image data="image.id-00003" class="imagewindow" control="image" view="-85,-628" zoom="0.45495498019433" />
+</windowstate>

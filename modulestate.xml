@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<modulestate version="4.7" dataversion="20241002">
+	<module name="Calendars">
+		<loaded />
+	</module>
+	<module name="PF2-ORC-GM Core">
+		<loaded />
+	</module>
+	<module name="PF2-ORC-Monster Core">
+		<loaded />
+	</module>
+	<module name="PF2-ORC-Player Core">
+		<loaded />
+	</module>
+	<module name="PF2-ORC-Player Core 2">
+		<loaded />
+	</module>
+</modulestate>
