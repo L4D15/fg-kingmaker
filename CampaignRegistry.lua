@@ -8,19 +8,23 @@
 		[5] = "create",
 		[6] = "player",
 	},
-	["colortables"] = {
-		[""] = {
-			["color"] = "FF000000",
-			["diceskin"] = 107,
-			["dicebodycolor"] = "FF000000",
-			["dicetextcolor"] = "FFFFFFFF",
+	["OptSOUND"] = "off",
+	["setup"] = true,
+	["tabletopstate"] = {
+		["_panels"] = {
+			["imagemaxpanel"] = {
+				["record"] = "image.id-00003",
+				["x"] = -13,
+				["zoom"] = 1.9004647805569,
+				["y"] = -652,
+			},
 		},
 	},
 	["windowstate"] = {
 		["tokenbag"] = {
 			["viewzoom"] = 1,
 			["viewtype"] = "grid",
-			["history"] = "sPath|=|Letter Tokens/Medium|&|nDisplayIndex|=|7|&|sFilterType|=|token|||sPath|=|Letter Tokens/Medium|&|sFilterType|=|token|||sPath|=|Letter Tokens/Medium|&|nDisplayIndex|=|7|&|sFilterType|=|token|||sFilterType|=|image|||sPath|=|Data|&|sFilterType|=|image|||sPath|=|Data/npcs|&|sFilterType|=|image|||sFilterType|=|token|||sPath|=|Data|&|sFilterType|=|token|||sFilterType|=|image|||sPath|=|Campaign|&|sFilterType|=|image|||",
+			["history"] = "sPath|=|Campaign|&|sFilterType|=|portrait|||sFilterType|=|token|||sPath|=|Data|&|sFilterType|=|token|||sPath|=|Data/Tokens|&|sFilterType|=|token||||||sFilterType|=|token|||sPath|=|Campaign|&|sFilterType|=|token|||sFilterType|=|image|||sPath|=|Campaign|&|sFilterType|=|image|||sPath|=|Campaign/npcs|&|sFilterType|=|image|||",
 		},
 		["masterindex"] = {
 			["notes"] = {
@@ -29,21 +33,26 @@
 			["item"] = {
 				["category"] = "Kingmaker",
 			},
+			["encounter"] = {
+				["category"] = "Kingmaker",
+			},
+			["treasureparcels"] = {
+				["category"] = "Kingmaker",
+			},
 			["npc"] = {
 				["category"] = "Kingmaker",
 			},
 			["quest"] = {
 				["category"] = "Kingmaker",
 			},
-			["treasureparcels"] = {
-				["category"] = "Kingmaker",
-			},
 		},
 	},
-	["tabletopstate"] = {
-		[1] = {
-			["path"] = "image.id-00003",
-			["class"] = "imagewindow",
+	["colortables"] = {
+		[""] = {
+			["color"] = "FF000000",
+			["dicebodycolor"] = "FF000000",
+			["diceskin"] = 107,
+			["dicetextcolor"] = "FFFFFFFF",
 		},
 	},
 	["sidebarversion"] = 2,

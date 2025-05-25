@@ -3,5 +3,4 @@
 	<ruleset>PFRPG2</ruleset>
 	<server>personal</server>
 	<port>1802</port>
-	<private>true</private>
 </root>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.7" dataversion="20241002" release="19.2|CoreRPG:7">
+	<reference>
+		<equipment>
+			<id-00026>
+				<actions />
+				<gmnotes type="formattedtext">
+					<p />
+				</gmnotes>
+				<howtouse type="formattedtext">
+					<p />
+				</howtouse>
+				<itemtype type="string">other</itemtype>
+				<shortcut_base type="windowreference">
+					<class />
+					<recordname />
+				</shortcut_base>
+				<weight type="number">0</weight>
+			</id-00026>
+			<id-00032>
+				<actions />
+				<gmnotes type="formattedtext">
+					<p />
+				</gmnotes>
+				<howtouse type="formattedtext">
+					<p />
+				</howtouse>
+				<itemtype type="string">other</itemtype>
+				<shortcut_base type="windowreference">
+					<class />
+					<recordname />
+				</shortcut_base>
+				<weight type="number">0.1</weight>
+			</id-00032>
+			<id-00074>
+				<actions />
+				<gmnotes type="formattedtext">
+					<p />
+				</gmnotes>
+				<howtouse type="formattedtext">
+					<p />
+				</howtouse>
+				<itemtype type="string">other</itemtype>
+				<shortcut_base type="windowreference">
+					<class />
+					<recordname />
+				</shortcut_base>
+				<weight type="number">0.1</weight>
+			</id-00074>
+		</equipment>
+	</reference>
+</root>

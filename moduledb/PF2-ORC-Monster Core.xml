@@ -2,7 +2,52 @@
 <root version="4.7" dataversion="20241002" release="19.2|CoreRPG:7">
 	<reference>
 		<npcdata>
-			<koboldwarrior>
+			<adultadamantinedragon>
+				<ac_final type="number">33</ac_final>
+				<current type="number">0</current>
+				<dying type="number">0</dying>
+				<hptemp type="number">0</hptemp>
+				<npc_shield type="number">0</npc_shield>
+				<reactionused type="number">0</reactionused>
+				<shieldbt type="number">0</shieldbt>
+				<shieldhardness type="number">0</shieldhardness>
+				<shieldhp type="number">0</shieldhp>
+				<shieldhpdamage type="number">0</shieldhpdamage>
+				<shieldraised type="number">0</shieldraised>
+				<wounded type="number">0</wounded>
+				<wounds type="number">0</wounds>
+			</adultadamantinedragon>
+			<chupacabra>
+				<ac_final type="number">18</ac_final>
+				<current type="number">0</current>
+				<dying type="number">0</dying>
+				<hptemp type="number">0</hptemp>
+				<npc_shield type="number">0</npc_shield>
+				<reactionused type="number">0</reactionused>
+				<shieldbt type="number">0</shieldbt>
+				<shieldhardness type="number">0</shieldhardness>
+				<shieldhp type="number">0</shieldhp>
+				<shieldhpdamage type="number">0</shieldhpdamage>
+				<shieldraised type="number">0</shieldraised>
+				<wounded type="number">0</wounded>
+				<wounds type="number">0</wounds>
+			</chupacabra>
+			<cinderrat>
+				<ac_final type="number">18</ac_final>
+				<current type="number">0</current>
+				<dying type="number">0</dying>
+				<hptemp type="number">0</hptemp>
+				<npc_shield type="number">0</npc_shield>
+				<reactionused type="number">0</reactionused>
+				<shieldbt type="number">0</shieldbt>
+				<shieldhardness type="number">0</shieldhardness>
+				<shieldhp type="number">0</shieldhp>
+				<shieldhpdamage type="number">0</shieldhpdamage>
+				<shieldraised type="number">0</shieldraised>
+				<wounded type="number">0</wounded>
+				<wounds type="number">0</wounds>
+			</cinderrat>
+			<electriceel>
 				<ac_final type="number">16</ac_final>
 				<current type="number">0</current>
 				<dying type="number">0</dying>
@@ -16,7 +61,37 @@
 				<shieldraised type="number">0</shieldraised>
 				<wounded type="number">0</wounded>
 				<wounds type="number">0</wounds>
-			</koboldwarrior>
+			</electriceel>
+			<fungusleshy>
+				<ac_final type="number">19</ac_final>
+				<current type="number">0</current>
+				<dying type="number">0</dying>
+				<hptemp type="number">0</hptemp>
+				<npc_shield type="number">0</npc_shield>
+				<reactionused type="number">0</reactionused>
+				<shieldbt type="number">0</shieldbt>
+				<shieldhardness type="number">0</shieldhardness>
+				<shieldhp type="number">0</shieldhp>
+				<shieldhpdamage type="number">0</shieldhpdamage>
+				<shieldraised type="number">0</shieldraised>
+				<wounded type="number">0</wounded>
+				<wounds type="number">0</wounds>
+			</fungusleshy>
+			<giantrat>
+				<ac_final type="number">15</ac_final>
+				<current type="number">0</current>
+				<dying type="number">0</dying>
+				<hptemp type="number">0</hptemp>
+				<npc_shield type="number">0</npc_shield>
+				<reactionused type="number">0</reactionused>
+				<shieldbt type="number">0</shieldbt>
+				<shieldhardness type="number">0</shieldhardness>
+				<shieldhp type="number">0</shieldhp>
+				<shieldhpdamage type="number">0</shieldhpdamage>
+				<shieldraised type="number">0</shieldraised>
+				<wounded type="number">0</wounded>
+				<wounds type="number">0</wounds>
+			</giantrat>
 		</npcdata>
 	</reference>
 </root>

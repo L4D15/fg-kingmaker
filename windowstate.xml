@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <windowstate version="4.7" dataversion="20241002">
 	<window data="" class="moduleselection" pos="635,481,1335,1081" />
-	<window data="" class="tokenbag" pos="1817,540,2313,1020" />
+	<window data="" class="tokenbag" pos="266,66,762,546" />
 	<window data="" class="characterlist" pos="0,0,45,120" />
-	<window data="" class="desktop_setdc" pos="395,1120,605,1310" />
+	<window data="" class="desktop_setdc" pos="394,620,604,810" />
 	<window data="" class="sound_context" pos="363,454,913,954" />
 	<window data="" class="diceselect" pos="927,429,1632,989" />
+	<window data="" class="chat" pos="4,462,354,812" />
+	<window data="" class="desktop_setdc_closed" pos="1366,824,1421,878" />
 	<window data="tables" class="masterindex" pos="1045,473,1515,943" />
 	<window data="image" class="masterindex" pos="326,501,796,971" />
 	<window data="image.id-00001" class="imagewindow" pos="149,108,1131,808" />
@@ -13,7 +15,7 @@
 	<window data="reference.npcdata.bottomlesspit@PF2-ORC-GM Core" class="npc" pos="369,429,909,979" />
 	<window data="reference.npcdata.hamperingweb@PF2-ORC-GM Core" class="npc" pos="369,429,909,979" />
 	<window data="reference.npcdata.airscamp@PF2-ORC-Monster Core" class="npc" pos="369,429,909,979" />
-	<window data="npc.id-00001" class="npc" pos="501,541,1041,1091" />
+	<window data="npc.id-00001" class="npc" pos="778,188,1318,738" />
 	<window data="npc.id-00002" class="npc" pos="613,683,1153,1233" />
 	<window data="reference.activity.disarmattack@PF2-ORC-Player Core" class="reference_activity" pos="749,640,1149,1140" />
 	<window data="reference.magicitems.loversgloves@PF2-ORC-GM Core" class="item" pos="549,454,999,954" />
@@ -24,36 +26,55 @@
 	<window data="item.id-00001.actions.id-00001" class="power_action_editor" pos="499,529,999,879" />
 	<window data="reference.magicitems.bronzebullpendant@PF2-ORC-GM Core" class="item" pos="549,454,999,954" />
 	<window data="item.id-00001.actions.id-00002" class="power_action_editor" pos="391,649,891,999" />
-	<window data="item.id-00001" class="item" pos="832,279,1282,779" />
+	<window data="item.id-00001" class="item" pos="335,70,785,570" />
 	<window data="treasureparcels.id-00001" class="treasureparcel" pos="197,779,747,1179" />
 	<window data="quest.id-00001" class="quest" pos="975,755,1375,1255" />
 	<window data="item.id-00002" class="item" pos="549,454,999,954" />
-	<window data="treasureparcels.id-00002" class="treasureparcel" pos="336,591,886,991" />
-	<window data="quest.id-00002" class="quest" pos="950,129,1350,629" />
+	<window data="treasureparcels.id-00002" class="treasureparcel" pos="4,60,554,460" />
+	<window data="quest.id-00002" class="quest" pos="574,122,974,622" />
 	<window data="quest.id-00003" class="quest" pos="549,454,949,954" />
-	<window data="combattracker" class="combattracker_host" pos="339,454,939,954" />
-	<window data="location" class="masterindex" pos="1121,651,1591,1121" />
+	<window data="combattracker" class="combattracker_host" pos="879,180,1479,680" />
+	<window data="location" class="masterindex" pos="354,152,824,622" />
 	<window data="partysheet" class="partysheet_host" pos="279,379,1219,1029" />
 	<window data="notes" class="masterindex" pos="514,469,984,939" />
 	<window data="activity" class="masterindex" pos="514,469,984,939" />
-	<window data="calendar" class="calendar" pos="517,331,1217,831" />
-	<window data="item" class="masterindex" pos="155,627,625,1097" />
+	<window data="calendar" class="calendar" pos="702,62,1402,562" />
+	<window data="item" class="masterindex" pos="877,82,1347,552" />
 	<window data="treasureparcels" class="masterindex" pos="894,768,1364,1238" />
-	<window data="npc" class="masterindex" pos="1021,677,1491,1147" />
-	<window data="quest" class="masterindex" pos="385,684,855,1154" />
+	<window data="npc" class="masterindex" pos="350,148,820,618" />
+	<window data="quest" class="masterindex" pos="940,55,1410,525" />
 	<window data="reference.npcdata.koboldwarrior@PF2-ORC-Monster Core" class="npc" pos="1049,285,1589,835" />
-	<window data="npc.id-00003" class="npc" pos="451,451,991,1001" />
-	<window data="battle.id-00001" class="battle" pos="161,576,611,1026" />
+	<window data="npc.id-00003" class="npc" pos="653,153,1193,703" />
+	<window data="battle.id-00001" class="battle" pos="54,86,504,536" />
 	<window data="image.id-00002" class="imagewindow" pos="499,187,1595,894" />
 	<window data="location.id-00002" class="location" pos="1047,134,1447,634" />
 	<window data="charsheet.id-00001" class="pictures" pos="1080,459,1480,959" />
-	<window data="charsheet.id-00001" class="charsheet" pos="479,413,1019,1073" />
-	<window data="charsheet.id-00001" class="chargen_tracker" pos="1565,399,2065,1019" />
+	<window data="charsheet.id-00001" class="charsheet" pos="868,55,1408,715" />
+	<window data="charsheet.id-00001" class="chargen_tracker" pos="854,172,1354,792" />
 	<window data="background" class="masterindex" pos="602,469,1072,939" />
-	<window data="battle" class="masterindex" pos="348,583,818,1053" />
-	<window data="image.id-00003" class="imagewindow" pos="443,233,1633,1001" />
+	<window data="battle" class="masterindex" pos="836,252,1306,722" />
+	<window data="image.id-00003" class="imagewindow" pos="181,84,1371,850" />
 	<window data="feat" class="masterindex" pos="1045,473,1515,943" />
+	<window data="charsheet.id-00001.specialabilitylist.id-00002" class="referenceclassability" pos="640,259,1040,759" />
+	<window data="charsheet.id-00001.activityset.id-00005.sections.id-00001.activities.id-00001" class="reference_activity" pos="556,208,956,708" />
+	<window data="charsheet.id-00001.activityset.id-00006.sections.id-00001.activities.id-00001" class="reference_activity" pos="556,208,956,708" />
+	<window data="charsheet.id-00001.activityset.id-00003.sections.id-00008.activities.id-00003" class="reference_activity" pos="556,208,956,708" />
+	<window data="charsheet.id-00001.spellset.id-00001.levels.level1.spells.id-00001" class="spelldesc" pos="556,208,956,708" />
+	<window data="reference.equipment.id-00026@PF2-ORC-Player Core 2" class="item" pos="556,208,1006,708" />
+	<window data="reference.equipment.id-00032@PF2-ORC-Player Core 2" class="item" pos="556,208,1006,708" />
+	<window data="reference.equipment.id-00074@PF2-ORC-Player Core 2" class="item" pos="556,208,1006,708" />
+	<window data="reference.magicitems.catseyeelixir@PF2-ORC-GM Core" class="item" pos="218,22,668,802" />
+	<window data="npc.id-00004" class="npc" pos="41,286,581,836" />
+	<window data="reference.npcdata.adultadamantinedragon@PF2-ORC-Monster Core" class="npc" pos="486,183,1026,733" />
+	<window data="reference.npcdata.chupacabra@PF2-ORC-Monster Core" class="npc" pos="486,183,1026,733" />
+	<window data="reference.npcdata.cinderrat@PF2-ORC-Monster Core" class="npc" pos="486,183,1026,733" />
+	<window data="reference.npcdata.electriceel@PF2-ORC-Monster Core" class="npc" pos="486,183,1026,733" />
+	<window data="reference.npcdata.fungusleshy@PF2-ORC-Monster Core" class="npc" pos="486,183,1026,733" />
+	<window data="reference.npcdata.giantrat@PF2-ORC-Monster Core" class="npc" pos="253,250,793,800" />
+	<window data="battle.id-00002" class="battle" pos="799,301,1249,751" />
+	<window data="encounter.id-00001" class="encounter" pos="81,56,481,706" />
+	<window data="encounter" class="masterindex" pos="521,223,991,693" />
 	<image data="image.id-00001" class="imagewindow" control="image" view="2733,765" zoom="0.560767998673784" />
 	<image data="image.id-00002" class="imagewindow" control="image" view="223,47" zoom="1.02384739822223" />
-	<image data="image.id-00003" class="imagewindow" control="image" view="-85,-628" zoom="0.45495498019433" />
+	<image data="image.id-00003" class="imagewindow" control="image" view="561.35,-817.4885" zoom="1.90046184566734" />
 </windowstate>

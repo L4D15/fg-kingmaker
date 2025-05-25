@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4.7" dataversion="20241002" release="19.2|CoreRPG:7">
+	<reference>
+		<magicitems>
+			<catseyeelixir>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+					</id-00001>
+				</actions>
+				<gmnotes type="formattedtext">
+					<p />
+				</gmnotes>
+				<itemtype type="string">other</itemtype>
+				<shortcut_base type="windowreference">
+					<class />
+					<recordname />
+				</shortcut_base>
+				<weight type="number">0.1</weight>
+			</catseyeelixir>
+		</magicitems>
+	</reference>
+</root>
